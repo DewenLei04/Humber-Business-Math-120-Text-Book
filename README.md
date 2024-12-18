@@ -14,3 +14,11 @@ This textbook is concise, easy to understand, and fully focused on examples and 
 - ⏱ **Fast Learning**: The book consists of **9 units** and around **40 pages**. You can master all concepts in just 5 hours.  
 - 📝 **Test-Ready Examples**: All examples are similar to real exam questions but with different numbers.  
 - 🔄 **Open Source**: Editable and collaborative—future contributors can improve or adapt this resource.
+
+## 📄 License
+This work is licensed under the Creative Commons Zero v1.0 Universal License (CC0).
+
+###You are free to:
+
+-Share, copy, and modify this textbook.
+-Use it for any purpose, including commercial use.
