@@ -18,7 +18,7 @@ This textbook is concise, easy to understand, and fully focused on examples and 
 ## 📄 License
 This work is licensed under the Creative Commons Zero v1.0 Universal License (CC0).
 
-###You are free to:
+### You are free to:
 
 -Share, copy, and modify this textbook.
 -Use it for any purpose, including commercial use.
